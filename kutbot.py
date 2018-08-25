@@ -5,8 +5,8 @@ from discord.ext import commands
 import re
 import json
 
-# url = https://discordapp.com/api/oauth2/authorize?client_id=482939158063611914&permissions=8&scope=client
-TOKEN = 'NDgyOTM5MTU4MDYzNjExOTE0.DmML8Q.m4lVWzqvyrMMWLVCFx2SC4uAxGI'
+
+
 client = commands.Bot(command_prefix = '.')
 
 
