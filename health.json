@@ -1,0 +1,17 @@
+{
+  "WarSaint": {
+    "name": "WarSaint",
+    "health": 95,
+    "inventory": []
+  },
+  "Milan": {
+    "name": "Milan",
+    "health": 100,
+    "inventory": []
+  },
+  "Ject": {
+    "name": "Ject",
+    "health": 100,
+    "inventory": []
+  }
+}
