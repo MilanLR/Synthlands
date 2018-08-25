@@ -1,0 +1,12 @@
+categories:
+- Dungeon Master abilities 
+- Experimentation
+conversations:
+- - print something 
+  - print ('Hello World!')
+- - print something 
+  - print ('My name is Scottie')
+- - print something 
+  - print ('I am the Dungeon Master of Synthlands')
+- - print something 
+  - print ("I play the character 'Stranger'")
