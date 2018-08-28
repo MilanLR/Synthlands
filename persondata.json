@@ -1,0 +1,184 @@
+{
+    "wybren8007": {
+        "name": "wybren8007",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "gizmo096": {
+        "name": "gizmo096",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "Luke": {
+        "name": "Luke",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "Carpetscratcher": {
+        "name": "Carpetscratcher",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "Milan": {
+        "name": "Milan",
+        "health": 200,
+        "level": 1,
+        "experience": 0,
+        "money": 53,
+        "inventory": {
+            "swords": {
+                "Demonic Knife of Lightning": {
+                    "amount": 1,
+                    "solidity": 10,
+                    "damage": 5,
+                    "sell value": 20,
+                    "buy value": 30,
+                    "required level": 1
+                }
+            },
+            "potions": {
+                "Small potion of Poison": 3,
+                "Normal potion of Poison": 4,
+                "Small potion of Health": 1,
+                "Normal potion of Health": 2
+            },
+            "armor": {}
+        }
+    },
+    "kaassoufl\u00e9": {
+        "name": "kaassoufl\u00e9",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "Chineseboy21": {
+        "name": "Chineseboy21",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "Jafet": {
+        "name": "Jafet",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "WarSaint": {
+        "name": "WarSaint",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 6,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "qwasz123": {
+        "name": "qwasz123",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "ImXmarioX": {
+        "name": "ImXmarioX",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "Ject": {
+        "name": "Ject",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "EngineerMan": {
+        "name": "EngineerMan",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    },
+    "a4mula": {
+        "name": "a4mula",
+        "health": 100,
+        "level": 1,
+        "experience": 0,
+        "money": 0,
+        "inventory": {
+            "swords": {},
+            "potions": {},
+            "armor": {}
+        }
+    }
+}

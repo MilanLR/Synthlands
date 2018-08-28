@@ -1,0 +1,879 @@
+{
+    "swords": {
+        "Godly Knife of Flames": {
+            "name": "Godly Knife of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Knife of Dousing": {
+            "name": "Godly Knife of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Knife of Icebite": {
+            "name": "Godly Knife of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Knife of Lightning": {
+            "name": "Godly Knife of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Knife of Slaying": {
+            "name": "Godly Knife of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Knife of Flames": {
+            "name": "Silver Knife of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Knife of Dousing": {
+            "name": "Silver Knife of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Knife of Icebite": {
+            "name": "Silver Knife of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Knife of Lightning": {
+            "name": "Silver Knife of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Knife of Slaying": {
+            "name": "Silver Knife of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Knife of Flames": {
+            "name": "Steel Knife of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Knife of Dousing": {
+            "name": "Steel Knife of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Knife of Icebite": {
+            "name": "Steel Knife of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Knife of Lightning": {
+            "name": "Steel Knife of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Knife of Slaying": {
+            "name": "Steel Knife of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Knife of Flames": {
+            "name": "Rusty Knife of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Knife of Dousing": {
+            "name": "Rusty Knife of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Knife of Icebite": {
+            "name": "Rusty Knife of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Knife of Lightning": {
+            "name": "Rusty Knife of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Knife of Slaying": {
+            "name": "Rusty Knife of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Knife of Flames": {
+            "name": "Demonic Knife of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Knife of Dousing": {
+            "name": "Demonic Knife of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Knife of Icebite": {
+            "name": "Demonic Knife of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Knife of Lightning": {
+            "name": "Demonic Knife of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Knife of Slaying": {
+            "name": "Demonic Knife of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Dagger of Flames": {
+            "name": "Godly Dagger of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Dagger of Dousing": {
+            "name": "Godly Dagger of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Dagger of Icebite": {
+            "name": "Godly Dagger of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Dagger of Lightning": {
+            "name": "Godly Dagger of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Dagger of Slaying": {
+            "name": "Godly Dagger of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Dagger of Flames": {
+            "name": "Silver Dagger of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Dagger of Dousing": {
+            "name": "Silver Dagger of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Dagger of Icebite": {
+            "name": "Silver Dagger of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Dagger of Lightning": {
+            "name": "Silver Dagger of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Dagger of Slaying": {
+            "name": "Silver Dagger of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Dagger of Flames": {
+            "name": "Steel Dagger of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Dagger of Dousing": {
+            "name": "Steel Dagger of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Dagger of Icebite": {
+            "name": "Steel Dagger of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Dagger of Lightning": {
+            "name": "Steel Dagger of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Dagger of Slaying": {
+            "name": "Steel Dagger of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Dagger of Flames": {
+            "name": "Rusty Dagger of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Dagger of Dousing": {
+            "name": "Rusty Dagger of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Dagger of Icebite": {
+            "name": "Rusty Dagger of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Dagger of Lightning": {
+            "name": "Rusty Dagger of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Dagger of Slaying": {
+            "name": "Rusty Dagger of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Dagger of Flames": {
+            "name": "Demonic Dagger of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Dagger of Dousing": {
+            "name": "Demonic Dagger of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Dagger of Icebite": {
+            "name": "Demonic Dagger of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Dagger of Lightning": {
+            "name": "Demonic Dagger of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Dagger of Slaying": {
+            "name": "Demonic Dagger of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Sword of Flames": {
+            "name": "Godly Sword of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Sword of Dousing": {
+            "name": "Godly Sword of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Sword of Icebite": {
+            "name": "Godly Sword of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Sword of Lightning": {
+            "name": "Godly Sword of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Sword of Slaying": {
+            "name": "Godly Sword of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Sword of Flames": {
+            "name": "Silver Sword of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Sword of Dousing": {
+            "name": "Silver Sword of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Sword of Icebite": {
+            "name": "Silver Sword of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Sword of Lightning": {
+            "name": "Silver Sword of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Sword of Slaying": {
+            "name": "Silver Sword of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Sword of Flames": {
+            "name": "Steel Sword of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Sword of Dousing": {
+            "name": "Steel Sword of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Sword of Icebite": {
+            "name": "Steel Sword of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Sword of Lightning": {
+            "name": "Steel Sword of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Sword of Slaying": {
+            "name": "Steel Sword of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Sword of Flames": {
+            "name": "Rusty Sword of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Sword of Dousing": {
+            "name": "Rusty Sword of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Sword of Icebite": {
+            "name": "Rusty Sword of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Sword of Lightning": {
+            "name": "Rusty Sword of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Sword of Slaying": {
+            "name": "Rusty Sword of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Sword of Flames": {
+            "name": "Demonic Sword of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Sword of Dousing": {
+            "name": "Demonic Sword of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Sword of Icebite": {
+            "name": "Demonic Sword of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Sword of Lightning": {
+            "name": "Demonic Sword of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Sword of Slaying": {
+            "name": "Demonic Sword of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Scimitar of Flames": {
+            "name": "Godly Scimitar of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Scimitar of Dousing": {
+            "name": "Godly Scimitar of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Scimitar of Icebite": {
+            "name": "Godly Scimitar of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Scimitar of Lightning": {
+            "name": "Godly Scimitar of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Scimitar of Slaying": {
+            "name": "Godly Scimitar of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Scimitar of Flames": {
+            "name": "Silver Scimitar of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Scimitar of Dousing": {
+            "name": "Silver Scimitar of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Scimitar of Icebite": {
+            "name": "Silver Scimitar of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Scimitar of Lightning": {
+            "name": "Silver Scimitar of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Scimitar of Slaying": {
+            "name": "Silver Scimitar of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Scimitar of Flames": {
+            "name": "Steel Scimitar of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Scimitar of Dousing": {
+            "name": "Steel Scimitar of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Scimitar of Icebite": {
+            "name": "Steel Scimitar of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Scimitar of Lightning": {
+            "name": "Steel Scimitar of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Scimitar of Slaying": {
+            "name": "Steel Scimitar of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Scimitar of Flames": {
+            "name": "Rusty Scimitar of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Scimitar of Dousing": {
+            "name": "Rusty Scimitar of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Scimitar of Icebite": {
+            "name": "Rusty Scimitar of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Scimitar of Lightning": {
+            "name": "Rusty Scimitar of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Scimitar of Slaying": {
+            "name": "Rusty Scimitar of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Scimitar of Flames": {
+            "name": "Demonic Scimitar of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Scimitar of Dousing": {
+            "name": "Demonic Scimitar of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Scimitar of Icebite": {
+            "name": "Demonic Scimitar of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Scimitar of Lightning": {
+            "name": "Demonic Scimitar of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Scimitar of Slaying": {
+            "name": "Demonic Scimitar of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Claymore of Flames": {
+            "name": "Godly Claymore of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Claymore of Dousing": {
+            "name": "Godly Claymore of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Claymore of Icebite": {
+            "name": "Godly Claymore of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Claymore of Lightning": {
+            "name": "Godly Claymore of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Godly Claymore of Slaying": {
+            "name": "Godly Claymore of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Claymore of Flames": {
+            "name": "Silver Claymore of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Claymore of Dousing": {
+            "name": "Silver Claymore of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Claymore of Icebite": {
+            "name": "Silver Claymore of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Claymore of Lightning": {
+            "name": "Silver Claymore of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Silver Claymore of Slaying": {
+            "name": "Silver Claymore of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Claymore of Flames": {
+            "name": "Steel Claymore of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Claymore of Dousing": {
+            "name": "Steel Claymore of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Claymore of Icebite": {
+            "name": "Steel Claymore of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Claymore of Lightning": {
+            "name": "Steel Claymore of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Steel Claymore of Slaying": {
+            "name": "Steel Claymore of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Claymore of Flames": {
+            "name": "Rusty Claymore of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Claymore of Dousing": {
+            "name": "Rusty Claymore of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Claymore of Icebite": {
+            "name": "Rusty Claymore of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Claymore of Lightning": {
+            "name": "Rusty Claymore of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Rusty Claymore of Slaying": {
+            "name": "Rusty Claymore of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Claymore of Flames": {
+            "name": "Demonic Claymore of Flames",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Claymore of Dousing": {
+            "name": "Demonic Claymore of Dousing",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Claymore of Icebite": {
+            "name": "Demonic Claymore of Icebite",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Claymore of Lightning": {
+            "name": "Demonic Claymore of Lightning",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        },
+        "Demonic Claymore of Slaying": {
+            "name": "Demonic Claymore of Slaying",
+            "damage": 5,
+            "sell value": 20,
+            "buy value": 30,
+            "required level": 1
+        }
+    }
+}
