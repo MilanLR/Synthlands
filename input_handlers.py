@@ -15,7 +15,7 @@ def handle_keys(user_input, game_state):
 
 
 def handle_player_turn_keys(user_input):
-    key_char = user_input.char
+    key_char = user_input.key
 
     # Movement keys
     if user_input.key == 'UP' or key_char == 'k':
